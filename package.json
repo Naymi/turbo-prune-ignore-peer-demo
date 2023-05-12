@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "turbo": "^1.9.3"
+  },
+  "name": "turbo-peer-deps-prune",
+  "packageManager": "npm@8.15.0",
+  "workspaces": [
+    "packages/*"
+  ]
+}
